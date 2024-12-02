@@ -6,7 +6,7 @@
 
 - ⚙️ I use daily: `.rb`, `.py`, `.js`
 - 🛠️ Frameworks I work on: `Ruby on Rails`, `Flask`, `FastAPI`, `NodeJS`, `Django`, `Laravel`, `Codeigniter`
-- 🧰 Working as: SDE at [Volopay India](https://www.linkedin.com/company/volopay/mycompany/)
+- 🧰 Working as: Founding SDE at [OXO](https://www.linkedin.com/company/104984024/)
 
 ##### VSCode extension(s) built by me: [Run RSpec](https://marketplace.visualstudio.com/items?itemName=itssoumit.run-rspec)
 ##### Python package(s) built by me: [Forge Data](https://pypi.org/project/forgedata/)
