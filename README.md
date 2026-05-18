@@ -4,10 +4,10 @@
 
 ##### A Backend Developer by day ☼ and a Open Source Contributor by night ☾
 
-- ⚙️ I use daily: `.rb`, `.py`, `.js`
+- ⚙️ I use daily: `.rb`, `.py`, `.js`, `.go`
 - 🛠️ Frameworks I work on: `Ruby on Rails`, `Flask`, `FastAPI`, `NodeJS`, `Django`, `Laravel`, `Codeigniter`
-- 🧰 Working as: Founding SDE at [OXO](https://www.linkedin.com/company/104984024/)
+- 🧰 Working as: Founding SDE at [OXO](https://www.linkedin.com/company/getoxofly)
 
 ##### VSCode extension(s) built by me: [Run RSpec](https://marketplace.visualstudio.com/items?itemName=itssoumit.run-rspec)
-##### Python package(s) built by me: [Forge Data](https://pypi.org/project/forgedata/)
-##### Currently building: [zoey](https://github.com/ITSSOUMIT/zoey)
+##### Python package(s) built by me: [Forge Data](https://pypi.org/project/forgedata/), [zoey](https://github.com/ITSSOUMIT/zoey)
+##### Currently building: [findbug](https://github.com/ITSSOUMIT/findbug)
