@@ -9,5 +9,5 @@
 - 🧰 Working as: Founding SDE at [OXO](https://www.linkedin.com/company/getoxofly)
 
 ##### VSCode extension(s) built by me: [Run RSpec](https://marketplace.visualstudio.com/items?itemName=itssoumit.run-rspec)
-##### Python package(s) built by me: [Forge Data](https://pypi.org/project/forgedata/), [zoey](https://github.com/ITSSOUMIT/zoey)
-##### Currently building: [findbug](https://github.com/ITSSOUMIT/findbug)
+##### Python package(s) built by me: [Forge Data](https://pypi.org/project/forgedata/), [Zoey](https://github.com/ITSSOUMIT/zoey)
+##### Currently building: [FindBug](https://github.com/ITSSOUMIT/findbug)
